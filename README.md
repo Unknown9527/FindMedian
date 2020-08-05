@@ -8,7 +8,7 @@ bazel run src/main:main
 
 Test with
 ```
-​	bazel test tests:tests
+bazel test tests:tests
 ```
 
-// The code seems work well
+// The code seems running well
