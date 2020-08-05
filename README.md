@@ -3,13 +3,11 @@ A function called FindMedian which finds the ​median​ of a vector of non-neg
 
 Run with
 '''
-
-​	bazel run src/main:main
+bazel run src/main:main
 '''
 
 Test with
 '''
-
 ​	bazel test tests:tests
 '''
 
